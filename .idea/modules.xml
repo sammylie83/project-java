@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AplikasiJavaMySQL/AplikasiJavaMySQL.iml" filepath="$PROJECT_DIR$/AplikasiJavaMySQL/AplikasiJavaMySQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FormEdit/FormEdit.iml" filepath="$PROJECT_DIR$/FormEdit/FormEdit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FormUser/FormUser.iml" filepath="$PROJECT_DIR$/FormUser/FormUser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PemogramanJSP/PemogramanJSP.iml" filepath="$PROJECT_DIR$/PemogramanJSP/PemogramanJSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramGUI/ProgramGUI.iml" filepath="$PROJECT_DIR$/ProgramGUI/ProgramGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramLatih154Java/ProgramLatih154Java.iml" filepath="$PROJECT_DIR$/ProgramLatih154Java/ProgramLatih154Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramLatih162/ProgramLatih162.iml" filepath="$PROJECT_DIR$/ProgramLatih162/ProgramLatih162.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramLatih162Java/ProgramLatih162Java.iml" filepath="$PROJECT_DIR$/ProgramLatih162Java/ProgramLatih162Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramPembuatanClass/ProgramPembuatanClass.iml" filepath="$PROJECT_DIR$/ProgramPembuatanClass/ProgramPembuatanClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectClassUser/ProjectClassUser.iml" filepath="$PROJECT_DIR$/ProjectClassUser/ProjectClassUser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectLatih16Java/ProjectLatih16Java.iml" filepath="$PROJECT_DIR$/ProjectLatih16Java/ProjectLatih16Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectLatih17java/ProjectLatih17java.iml" filepath="$PROJECT_DIR$/ProjectLatih17java/ProjectLatih17java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectLatih18java/ProjectLatih18java.iml" filepath="$PROJECT_DIR$/ProjectLatih18java/ProjectLatih18java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectLatih19java/ProjectLatih19java.iml" filepath="$PROJECT_DIR$/ProjectLatih19java/ProjectLatih19java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectLatih21java/ProjectLatih21java.iml" filepath="$PROJECT_DIR$/ProjectLatih21java/ProjectLatih21java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projectlatih20java/Projectlatih20java.iml" filepath="$PROJECT_DIR$/Projectlatih20java/Projectlatih20java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session/src/Session.iml" filepath="$PROJECT_DIR$/Session/src/Session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session/build/build.iml" filepath="$PROJECT_DIR$/Session/build/build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/project java.iml" filepath="$PROJECT_DIR$/.idea/project java.iml" />
+    </modules>
+  </component>
+</project>

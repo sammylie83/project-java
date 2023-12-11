@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FormEdit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FormEdit/dist/FormEdit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
